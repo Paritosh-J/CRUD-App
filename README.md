@@ -6,5 +6,3 @@ A Web App made with the **React JS**, a framework of JavaScript
 - **Read** : Display the recorded data from the *db.jason* file
 - **Update** : Modify / Edit an existing record
 - **Delete** : Permanently remove a record
-
-**Try :**

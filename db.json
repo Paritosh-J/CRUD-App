@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Leanne Graham",
+      "age": 17,
+      "email": "Sincere@april.biz",
+      "phone": 5946123456,
+      "skill": "web development",
+      "interest": "coding, music, art"
+    },
+    {
+      "id": 2,
+      "userName": "Ervin Howell",
+      "age": 19,
+      "email": "Shanna@melissa.tv",
+      "phone": 5946234567,
+      "skill": "android development",
+      "interest": "coding, dance"
+    },
+    {
+      "id": 3,
+      "userName": "Clementine Bauch",
+      "age": 18,
+      "email": "Nathan@yesenia.net",
+      "phone": 5946456789,
+      "skill": "front end development",
+      "interest": "coding, photography"
+    },
+    {
+      "id": 4,
+      "userName": "Patricia Lebsack",
+      "age": 17,
+      "email": "Julianne.OConner@kory.org",
+      "phone": 5946567891,
+      "skill": "full stack development",
+      "interest": "coding, movies"
+    }
+  ]
+}
